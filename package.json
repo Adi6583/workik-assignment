@@ -1,0 +1,22 @@
+{
+  "name": "freeco",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "custom-electron-titlebar": "^4.2.7",
+    "electron": "^26.2.1",
+    "electron-builder": "^24.6.4",
+    "electron-reload": "^2.0.0-alpha.1"
+  },
+  "dependencies": {
+    "reload": "^3.2.1"
+  }
+}
