@@ -14,4 +14,16 @@ Install the Electron framework
 Create HTML CSS JS files etc
 Here I have used API from https://www.exchangerate-api.com/ to create cross plat-form Currency Conversion app
 
+double click >   freeco-win32-x64
+search for freeco icon 
+double click the icon
+app is installed
+
+Enter the amount in USD from convert
+click on drop-down by default it is INR
+After entering amount, cliack convert
+It wILL CONVERT THE AMOUNT
+
+
+
 
