@@ -1,1 +1,1 @@
-# workik-assignment
+Assignment on Simple Currency Conversion
